@@ -50,3 +50,9 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 <a href="https://github.com/KameCode42/philo">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=philosophers&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="philosophers">
 </a>
+
+</div>
+
+<p align="center">
+  <a href="https://github.com/KameCode42?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
