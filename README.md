@@ -18,3 +18,8 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 <hr/>
 
 <h2 align="center"> Repositories </h2>
+
+<div align="center">
+<a href="https://github.com/KameCode42/libft">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=minishell&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="Minishell">
+</a>
