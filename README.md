@@ -21,16 +21,16 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 
 ## 📂 Mes Projets 42
 
-- [Piscine_2024](https://github.com/KameCode42/Piscine_2024)
-- [Libft](https://github.com/KameCode42/libft)
-- [Ft_printf](https://github.com/KameCode42/printf)
-- [Get_next_line](https://github.com/KameCode42/get_next_line)
-- [Born2beroot](https://github.com/KameCode42/Born2beroot)
-- [So_long](https://github.com/KameCode42/so_long)
-- [Pipex](https://github.com/KameCode42/pipex)
-- [Push_swap](https://github.com/KameCode42/push_swap)
-- [Minishell](https://github.com/KameCode42/minishell)
-- [Philosophers](https://github.com/KameCode42/philosophers)
+- [**Piscine_2024**](https://github.com/KameCode42/Piscine_2024) - Intensive introduction to C and UNIX basics.  
+- [**Libft**](https://github.com/KameCode42/libft) - A custom C library with useful functions for future projects.  
+- [**Ft_printf**](https://github.com/KameCode42/printf) - Recreation of the `printf` function in C.  
+- [**Get_next_line**](https://github.com/KameCode42/get_next_line) - Function that reads a file line by line.  
+- [**Born2beroot**](https://github.com/KameCode42/Born2beroot) - Installation and configuration of a secure Linux server.  
+- [**So_long**](https://github.com/KameCode42/so_long) - A small 2D game with collision handling and graphical rendering.  
+- [**Pipex**](https://github.com/KameCode42/pipex) - Recreation of the pipe (`|`) behavior in C.  
+- [**Push_swap**](https://github.com/KameCode42/push_swap) - Sorting algorithm using stacks with optimized moves.  
+- [**Minishell**](https://github.com/KameCode42/minishell) - A minimalistic UNIX shell with command execution.  
+- [**Philosophers**](https://github.com/KameCode42/philosophers) - Simulation of the dining philosophers problem using threads and mutexes.  
 
 </div>
 
