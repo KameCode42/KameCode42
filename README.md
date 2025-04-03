@@ -19,37 +19,18 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 
 <h2 align="center"> Repositories </h2>
 
-<div align="center">
-<a href="https://github.com/KameCode42/Piscine_2024">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=Piscine_2024&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="Piscine_2024">
-</a>
-<a href="https://github.com/KameCode42/libft">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=libft&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="libft">
-</a>
-<a href="https://github.com/KameCode42/Born2beroot">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=Born2beroot&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="Born2beroot">
-</a>
-<a href="https://github.com/KameCode42/get_next_line">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=get_next_line&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="get_next_line">
-</a>
-<a href="https://github.com/KameCode42/printf">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=printf&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="printf">
-</a>
-<a href="https://github.com/KameCode42/so_long">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=so_long&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="so_long">
-</a>
-<a href="https://github.com/KameCode42/pipex">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=pipex&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="pipex">
-</a>
-<a href="https://github.com/KameCode42/push_swap">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=push_swap&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="push_swap">
-</a>
-<a href="https://github.com/KameCode42/minishell">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=minishell&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="minishell">
-</a>
-<a href="https://github.com/KameCode42/philo">
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=KameCode42&repo=philosophers&border_color=008CFF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=008CFF" alt="philosophers">
-</a>
+## 📂 Mes Projets 42
+
+- [Piscine_2024](https://github.com/KameCode42/Piscine_2024)
+- [Libft](https://github.com/KameCode42/libft)
+- [Ft_printf](https://github.com/KameCode42/printf)
+- [Get_next_line](https://github.com/KameCode42/get_next_line)
+- [Born2beroot](https://github.com/KameCode42/Born2beroot)
+- [So_long](https://github.com/KameCode42/so_long)
+- [Pipex](https://github.com/KameCode42/pipex)
+- [Push_swap](https://github.com/KameCode42/push_swap)
+- [Minishell](https://github.com/KameCode42/minishell)
+- [Philosophers](https://github.com/KameCode42/philosophers)
 
 </div>
 
