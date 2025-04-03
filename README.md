@@ -19,7 +19,7 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 
 <h2 align="center"> Repositories </h2>
 
-## 📂 Mes Projets 42
+## 📂 My Projects 42
 
 - [**Piscine_2024**](https://github.com/KameCode42/Piscine_2024) - Intensive introduction to C and UNIX basics.  
 - [**Libft**](https://github.com/KameCode42/libft) - A custom C library with useful functions for future projects.  
