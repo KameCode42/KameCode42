@@ -30,7 +30,7 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 - [**Pipex**](https://github.com/KameCode42/pipex) - Recreation of the pipe (`|`) behavior in C.  
 - [**Push_swap**](https://github.com/KameCode42/push_swap) - Sorting algorithm using stacks with optimized moves.  
 - [**Minishell**](https://github.com/KameCode42/minishell) - A minimalistic UNIX shell with command execution.  
-- [**Philosophers**](https://github.com/KameCode42/philosophers) - Simulation of the dining philosophers problem using threads and mutexes.(in progress)
+- [**Philosophers**](https://github.com/KameCode42/philo) - Simulation of the dining philosophers problem using threads and mutexes.(in progress)
 
 </div>
 
