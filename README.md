@@ -31,6 +31,7 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 - [**Push_swap**](https://github.com/KameCode42/push_swap) - Sorting algorithm using stacks with optimized moves.  
 - [**Minishell**](https://github.com/KameCode42/minishell) - A minimalistic UNIX shell with command execution.  
 - [**Philosophers**](https://github.com/KameCode42/philo) - Simulation of the dining philosophers problem using threads and mutexes.
+- [**NetPractice**](https://github.com/KameCode42/NetPractice) - NetPractice is a web platform for practicing networking skills through interactive exercises and simulations. (in progress)
 
 </div>
 
