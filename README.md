@@ -34,7 +34,3 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 - [**NetPractice**](https://github.com/KameCode42/NetPractice) - NetPractice is a web platform for practicing networking skills through interactive exercises and simulations. (in progress)
 
 </div>
-
-<p align="center">
-  <a href="https://github.com/KameCode42?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
