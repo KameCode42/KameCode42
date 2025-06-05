@@ -23,7 +23,7 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 
 - [**Piscine_2024**](https://github.com/KameCode42/Piscine_2024) - Intensive introduction to C and UNIX basics.  
 - [**Libft**](https://github.com/KameCode42/libft) - A custom C library with useful functions for future projects.  
-- [**Ft_printf**](https://github.com/KameCode42/printf) - Recreation of the `printf` function in C.  
+- [**Ft_printf**](https://github.com/KameCode42/ft_printf) - Recreation of the `printf` function in C.  
 - [**Get_next_line**](https://github.com/KameCode42/get_next_line) - Function that reads a file line by line.  
 - [**Born2beroot**](https://github.com/KameCode42/Born2beroot) - Installation and configuration of a secure Linux server.  
 - [**So_long**](https://github.com/KameCode42/so_long) - A small 2D game with collision handling and graphical rendering.  
