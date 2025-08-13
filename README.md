@@ -11,6 +11,7 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 <br>
 <p align="center">
   <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=c"></code>
+  <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=cpp"></code>
   <br>
   <br>
 </p>
