@@ -32,7 +32,7 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 | [**Get_next_line**](https://github.com/KameCode42/get_next_line) | Fonction qui lit un fichier ligne par ligne. |
 | [**Born2beroot**](https://github.com/KameCode42/Born2beroot) | Installation et configuration d’un serveur Linux sécurisé. |
 | [**So_long**](https://github.com/KameCode42/so_long) | Un petit jeu 2D avec gestion des collisions et rendu graphique. |
-| [**Pipex**](https://github.com/KameCode42/pipex) | Recréation du comportement du pipe (|) en C. |
+| [**Pipex**](https://github.com/KameCode42/pipex) | Recréation du comportement du pipe `(|)` en C. |
 | [**Push_swap**](https://github.com/KameCode42/push_swap) | Algorithme de tri utilisant des piles avec des mouvements optimisés. |
 | [**Minishell**](https://github.com/KameCode42/minishell) | Un shell UNIX minimaliste avec exécution de commandes. |
 | [**Philosophers**](https://github.com/KameCode42/philo) | Simulation du problème des philosophes mangeurs utilisant des threads et des mutex. |
