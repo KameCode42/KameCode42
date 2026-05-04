@@ -38,6 +38,6 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 | [**Philosophers**](https://github.com/KameCode42/philo) | Simulation du problème des philosophes mangeurs utilisant des threads et des mutex. |
 | [**NetPractice**](https://github.com/KameCode42/NetPractice) | NetPractice est une plateforme web pour s’exercer aux compétences en réseau grâce à des exercices interactifs et des simulations. |
 | [**Cub3D**](https://github.com/KameCode42/cub3D) | Cub3D est un projet simple de moteur de jeu 3D réalisé en C, inspiré des premiers jeux utilisant le raycasting comme Wolfenstein 3D. Le projet utilise la technique du raycasting pour afficher un environnement pseudo-3D à partir d’une carte 2D, permettant des déplacements basiques du joueur et le rendu des murs. L’objectif est de comprendre la programmation graphique bas niveau, les boucles de jeu et la logique de rendu à l’aide de la bibliothèque MiniLibX. |
-| [**CPP**](https://github.com/KameCode42/CPP_Module) | Modules C++ 98 |
-| [**Inception**](https://github.com/KameCode42/inception-42) | Inception est un projet d’administration système dont l’objectif est de mettre en place, dans une machine virtuelle, une petite infrastructure web gérée avec Docker Compose |
+| [**CPP**](https://github.com/KameCode42/CPP_Module) | Modules C++ 98. |
+| [**Inception**](https://github.com/KameCode42/inception-42) | Inception est un projet d’administration système dont l’objectif est de mettre en place, dans une machine virtuelle, une petite infrastructure web gérée avec Docker Compose. |
 | [**Ft_irc**](https://github.com/KameCode42/ft_irc) | ft_irc est un projet réseau qui consiste à créer un serveur IRC (Internet Relay Chat) en C++, conforme à la RFC1459. |
