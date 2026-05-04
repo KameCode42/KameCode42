@@ -23,17 +23,18 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 
 ## 📂 My Projects 42
 
-- [**Piscine_2024**](https://github.com/KameCode42/Piscine_2024) - Intensive introduction to C and UNIX basics.  
-- [**Libft**](https://github.com/KameCode42/libft) - A custom C library with useful functions for future projects.  
-- [**Ft_printf**](https://github.com/KameCode42/ft_printf) - Recreation of the `printf` function in C.  
-- [**Get_next_line**](https://github.com/KameCode42/get_next_line) - Function that reads a file line by line.  
-- [**Born2beroot**](https://github.com/KameCode42/Born2beroot) - Installation and configuration of a secure Linux server.  
-- [**So_long**](https://github.com/KameCode42/so_long) - A small 2D game with collision handling and graphical rendering.  
-- [**Pipex**](https://github.com/KameCode42/pipex) - Recreation of the pipe (`|`) behavior in C.  
-- [**Push_swap**](https://github.com/KameCode42/push_swap) - Sorting algorithm using stacks with optimized moves.  
-- [**Minishell**](https://github.com/KameCode42/minishell) - A minimalistic UNIX shell with command execution.  
-- [**Philosophers**](https://github.com/KameCode42/philo) - Simulation of the dining philosophers problem using threads and mutexes.
-- [**NetPractice**](https://github.com/KameCode42/NetPractice) - NetPractice is a web platform for practicing networking skills through interactive exercises and simulations.
-- [**Cub3D**](https://github.com/KameCode42/cub3D) - Cub3D is a simple 3D game engine project made with C, inspired by early raycasting games like Wolfenstein 3D. The project uses the raycasting technique to render a 3D-like environment from a 2D map, allowing basic player movement and wall rendering. The goal is to understand low-level graphics programming, game loops, and rendering logic using the MiniLibX library.
-- [**CPP**](https://github.com/KameCode42/CPP_Module) - Module C++ 98
-</div>
+| Projet | Description |
+|---|---|
+| [**Piscine_2024**](https://github.com/KameCode42/Piscine_2024) | Intensive introduction to C and UNIX basics. |
+| [**Libft**](https://github.com/KameCode42/libft) | A custom C library with useful functions for future projects. |
+| [**Ft_printf**](https://github.com/KameCode42/ft_printf) | Recreation of the `printf` function in C. |
+| [**Get_next_line**](https://github.com/KameCode42/get_next_line) | Function that reads a file line by line. |
+| [**Born2beroot**](https://github.com/KameCode42/Born2beroot) | Installation and configuration of a secure Linux server. |
+| [**So_long**](https://github.com/KameCode42/so_long) | A small 2D game with collision handling and graphical rendering. |
+| [**Pipex**](https://github.com/KameCode42/pipex) | Recreation of the pipe (`|`) behavior in C. |
+| [**Push_swap**](https://github.com/KameCode42/push_swap) | Sorting algorithm using stacks with optimized moves. |
+| [**Minishell**](https://github.com/KameCode42/minishell) | A minimalistic UNIX shell with command execution. |
+| [**Philosophers**](https://github.com/KameCode42/philo) | Simulation of the dining philosophers problem using threads and mutexes. |
+| [**NetPractice**](https://github.com/KameCode42/NetPractice) | NetPractice is a web platform for practicing networking skills through interactive exercises and simulations. |
+| [**Cub3D**](https://github.com/KameCode42/cub3D) | Cub3D is a simple 3D game engine project made with C, inspired by early raycasting games like Wolfenstein 3D. The project uses the raycasting technique to render a 3D-like environment from a 2D map, allowing basic player movement and wall rendering. The goal is to understand low-level graphics programming, game loops, and rendering logic using the MiniLibX library.a |
+| [**CPP**](https://github.com/KameCode42/CPP_Module) | Module C++ 98 |
