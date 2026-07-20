@@ -1,7 +1,3 @@
-<h1 align="center">
-  <img src="https://static.displate.com/600x1200/displate/2022-11-27/c7689418499ccd95e71e81a67fc234e8_f4f6442cdc9cf05c9523c0bd70f1d066.jpg" width="80%">
-</h1>
-
 <p align="center"> 
 Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 </p>
