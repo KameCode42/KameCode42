@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="bfee6dc0-29425054" src="https://github.com/user-attachments/assets/d42ec587-62fb-4197-906a-bf553d5af71b" />
+<img width="1280" height="640" alt="bfee6dc0-29425054" src="https://github.com/user-attachments/assets/d42ec587-62fb-4197-906a-bf553d5af71b" />
 <p align="center"> 
 Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
 </p>
