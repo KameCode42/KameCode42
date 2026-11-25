@@ -10,6 +10,9 @@ Hi ! I'm David, a junior developer at the 42 school in Renens, Switzerland.
   <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=cpp"></code>
   <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=docker"></code>
   <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=github"></code>
+  <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=django"></code>
+  <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=postgres"></code>
+  <code><img title="DEV" height="42" src="https://skillicons.dev/icons?i=ts"></code>
   <br>
   <br>
 </p>
